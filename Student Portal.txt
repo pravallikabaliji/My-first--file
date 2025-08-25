@@ -1,0 +1,4 @@
+Name = Baliji Pravallika
+College Name = Aditya Degree College
+Email id of College = aditya.ac.in
+Phone number = 2596469348
